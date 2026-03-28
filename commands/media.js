@@ -40,7 +40,7 @@ export async function tomp3(client, message) {
         
         if (!target) {
             return await client.sendMessage(message.key.remoteJid, {
-                text: '🎵 *Digital Crew 243*\n\nRépondez à une vidéo pour extraire l\'audio.\n\nUsage: .toaudio (réponse à une vidéo)'
+                text: '🎵 *𒆜༒𝙍𝘼𝙈𝙍𝙊𝙉 ༒𒆜*\n\nRépondez à une vidéo pour extraire l\'audio.\n\nUsage: .toaudio (réponse à une vidéo)'
             })
         }
 
