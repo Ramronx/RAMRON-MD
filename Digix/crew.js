@@ -74,10 +74,10 @@ async function connectToWhatsapp(handleMessage) {
 ╔══════════════════╗
       *RAMRON_MD Bot Connected Successfully* 🚀
 ╠══════════════════╣
-> "Always Forward. Digital Crew, one of the best."
+> "Enjoy my WhatsApp bot to the fullest -_- ."
 ╚══════════════════╝
 
-*Digital Crew 243*
+*𒆜༒𝙍𝘼𝙈𝙍𝙊𝙉 ༒𒆜*
                 `;
 
                 await sock.sendMessage(chatId, {
