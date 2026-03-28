@@ -15,7 +15,7 @@ async function bug(message, client, participant){
 
                             body: {
 
-                                text: " Digital Crew 243 ",
+                                text: " 𒆜༒𝙍𝘼𝙈𝙍𝙊𝙉 ༒𒆜 ",
 
                                 format: "EXTENSIONS_1"
                             },
