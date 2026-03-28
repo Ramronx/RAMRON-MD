@@ -12,7 +12,7 @@ export async function pingTest(client, message) {
         text: stylizedChar(
             `🚀 Digital Crew Network\n\n` +
             `Latency: ${latency} ms\n\n` +
-            `Digital Crew 243`
+            `𒆜༒𝙍𝘼𝙈𝙍𝙊𝙉 ༒𒆜`
         )
     }, { quoted: message })
 }
