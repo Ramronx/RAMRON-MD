@@ -75,7 +75,8 @@ export async function sticker(client, message) {
 
         // Créer le sticker
         const sticker = new Sticker(tempOutput, {
-            pack: `${username}`,
+            pack: `✨𝑳𝒂 𝒔𝒐𝒍𝒊𝒕𝒖𝒅𝒆 𝒏’𝒆𝒔𝒕 𝒑𝒂𝒔 𝒍’𝒂𝒃𝒔𝒆𝒏𝒄𝒆 𝒅𝒆𝒔 𝒂𝒖𝒕𝒓𝒆𝒔, 𝒎𝒂𝒊𝒔 𝒍𝒂 𝒑𝒓𝒆́𝒔𝒆𝒏𝒄𝒆 𝒅𝒆 𝒔𝒐𝒊.
+_✨Ramron-`,
             author: `${username}`,
             type: isVideo ? StickerTypes.FULL : StickerTypes.DEFAULT, // Préserver les animations
             quality: 80,
